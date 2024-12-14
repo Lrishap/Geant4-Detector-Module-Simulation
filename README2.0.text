@@ -1,0 +1,14 @@
+Not storing to github yet will commit fully by this week 
+
+THis is for you [Rishap]
+
+1] All optical paramters have been inputted, double check just in case to make sure
+2] There is a reference result section in folder named Results, it contains two scripts that can be useful for you but it requires Pyroot so modifiy at your end
+3] The ROOT bug has been fixed but the memory bug (as I suspect - correct me if I am wrong ) still remains, in interest of time I scripts that omit the 0 entries in scintillation and corresponding events 
+   This script is called PyROOT.py 
+4] Use that script as skeleton code if needed but the idea stays same, remove any events that cause scintillation photons = 0 due to the bug 
+5] Since the accuracy of scintillation is improved for this reason someone bug now occurs at 100 events so try to reduce events to see if bug occurs 
+6] You can then create Bash script for multiple runs to get your event threshold but make sure you do it in seperate folders and then merge the ROOT files together 
+7] if you want see if/and where the bug occurs look at scintillation_output.txt [its appended so take care there]
+
+8] Lastly and possiblely a way to cross out a possiblity check how many cores your PC//linux have and run 100 events. I am curious to see if the bug exists due to restrictions in my PC or GEANT4. 
