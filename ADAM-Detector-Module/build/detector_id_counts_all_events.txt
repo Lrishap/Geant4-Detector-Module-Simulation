@@ -1,0 +1,15 @@
+Event ID: 0.0
+Detector ID 2.0: 131
+Detector ID 0.0: 45
+Detector ID 1.0: 41
+Detector ID 3.0: 50
+Event ID: 1.0
+Detector ID 2.0: 103
+Detector ID 1.0: 33
+Detector ID 3.0: 45
+Detector ID 0.0: 43
+Event ID: 2.0
+Detector ID 0.0: 42
+Detector ID 2.0: 93
+Detector ID 1.0: 36
+Detector ID 3.0: 41

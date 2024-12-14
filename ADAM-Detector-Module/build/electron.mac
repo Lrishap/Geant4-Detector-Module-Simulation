@@ -1,0 +1,25 @@
+
+#/control/verbose 2
+#/run/verbose 2
+
+/tracking/verbose 0
+/event/verbose 0
+
+/run/initialize
+
+#/hits/verbose 2
+#/process/optical/verbose 1
+
+/gps/particle mu-
+/gps/energy 4 GeV
+
+#/gun/particle mu- 
+#/gun/energy 4 GeV
+#/gun/position 0.10 0.10 -0.04 meter
+
+/gps/pos/centre 0.0 0.0 -4 cm
+# z-direction beam 
+/gps/direction 0 0 1
+
+/run/printProgress 1
+/run/beamOn 100
