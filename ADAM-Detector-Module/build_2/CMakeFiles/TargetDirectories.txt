@@ -1,0 +1,7 @@
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/wls.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/edit_cache.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/rebuild_cache.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/list_install_components.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/install.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/install/local.dir
+/Users/rishaplamichhane/Downloads/MAPP_2_new copy/build_2/CMakeFiles/install/strip.dir
