@@ -1,0 +1,1425 @@
+Event ID: 0.0
+Detector ID 1.0: 123
+Detector ID 3.0: 120
+Detector ID 0.0: 136
+Detector ID 2.0: 113
+Event ID: 1.0
+Detector ID 3.0: 141
+Detector ID 0.0: 141
+Detector ID 1.0: 135
+Detector ID 2.0: 128
+Event ID: 2.0
+Detector ID 3.0: 123
+Detector ID 0.0: 132
+Detector ID 2.0: 136
+Detector ID 1.0: 122
+Event ID: 3.0
+Detector ID 0.0: 184
+Detector ID 2.0: 158
+Detector ID 1.0: 152
+Detector ID 3.0: 127
+Event ID: 4.0
+Detector ID 2.0: 142
+Detector ID 0.0: 134
+Detector ID 1.0: 141
+Detector ID 3.0: 144
+Event ID: 5.0
+Detector ID 1.0: 146
+Detector ID 2.0: 145
+Detector ID 3.0: 134
+Detector ID 0.0: 164
+Event ID: 6.0
+Detector ID 1.0: 161
+Detector ID 0.0: 154
+Detector ID 2.0: 151
+Detector ID 3.0: 158
+Event ID: 7.0
+Detector ID 0.0: 123
+Detector ID 1.0: 107
+Detector ID 3.0: 110
+Detector ID 2.0: 113
+Event ID: 519.0
+Detector ID 3.0: 105
+Detector ID 0.0: 96
+Detector ID 1.0: 122
+Detector ID 2.0: 116
+Event ID: 520.0
+Detector ID 1.0: 117
+Detector ID 2.0: 122
+Detector ID 3.0: 130
+Detector ID 0.0: 167
+Event ID: 521.0
+Detector ID 0.0: 151
+Detector ID 3.0: 150
+Detector ID 2.0: 123
+Detector ID 1.0: 136
+Event ID: 522.0
+Detector ID 3.0: 145
+Detector ID 2.0: 120
+Detector ID 0.0: 121
+Detector ID 1.0: 139
+Event ID: 523.0
+Detector ID 2.0: 146
+Detector ID 3.0: 140
+Detector ID 1.0: 148
+Detector ID 0.0: 155
+Event ID: 524.0
+Detector ID 3.0: 111
+Detector ID 0.0: 136
+Detector ID 1.0: 125
+Detector ID 2.0: 138
+Event ID: 1038.0
+Detector ID 3.0: 215
+Detector ID 1.0: 227
+Detector ID 2.0: 225
+Detector ID 0.0: 235
+Event ID: 1039.0
+Detector ID 0.0: 143
+Detector ID 1.0: 139
+Detector ID 3.0: 124
+Detector ID 2.0: 130
+Event ID: 1040.0
+Detector ID 3.0: 143
+Detector ID 1.0: 126
+Detector ID 2.0: 136
+Detector ID 0.0: 138
+Event ID: 1041.0
+Detector ID 1.0: 122
+Detector ID 2.0: 112
+Detector ID 3.0: 114
+Detector ID 0.0: 110
+Event ID: 1042.0
+Detector ID 1.0: 122
+Detector ID 2.0: 124
+Detector ID 3.0: 126
+Detector ID 0.0: 126
+Event ID: 1043.0
+Detector ID 1.0: 149
+Detector ID 3.0: 142
+Detector ID 0.0: 135
+Detector ID 2.0: 149
+Event ID: 1044.0
+Detector ID 2.0: 169
+Detector ID 0.0: 149
+Detector ID 3.0: 165
+Detector ID 1.0: 169
+Event ID: 525.0
+Detector ID 1.0: 173
+Detector ID 0.0: 156
+Detector ID 2.0: 160
+Detector ID 3.0: 147
+Event ID: 526.0
+Detector ID 2.0: 149
+Detector ID 0.0: 123
+Detector ID 3.0: 142
+Detector ID 1.0: 122
+Event ID: 1045.0
+Detector ID 2.0: 281
+Detector ID 3.0: 264
+Detector ID 0.0: 238
+Detector ID 1.0: 261
+Event ID: 1046.0
+Detector ID 0.0: 162
+Detector ID 2.0: 143
+Detector ID 1.0: 120
+Detector ID 3.0: 166
+Event ID: 1047.0
+Detector ID 3.0: 171
+Detector ID 0.0: 146
+Detector ID 2.0: 161
+Detector ID 1.0: 144
+Event ID: 1048.0
+Detector ID 2.0: 122
+Detector ID 1.0: 107
+Detector ID 0.0: 119
+Detector ID 3.0: 123
+Event ID: 1049.0
+Detector ID 3.0: 150
+Detector ID 1.0: 157
+Detector ID 2.0: 140
+Detector ID 0.0: 150
+Event ID: 1050.0
+Detector ID 3.0: 102
+Detector ID 0.0: 118
+Detector ID 1.0: 121
+Detector ID 2.0: 123
+Event ID: 1051.0
+Detector ID 1.0: 138
+Detector ID 3.0: 130
+Detector ID 0.0: 136
+Detector ID 2.0: 130
+Event ID: 533.0
+Detector ID 2.0: 127
+Detector ID 1.0: 142
+Detector ID 3.0: 131
+Detector ID 0.0: 123
+Event ID: 1052.0
+Detector ID 3.0: 127
+Detector ID 0.0: 122
+Detector ID 2.0: 112
+Detector ID 1.0: 132
+Event ID: 1053.0
+Detector ID 0.0: 138
+Detector ID 1.0: 129
+Detector ID 2.0: 101
+Detector ID 3.0: 129
+Event ID: 1054.0
+Detector ID 2.0: 116
+Detector ID 0.0: 115
+Detector ID 1.0: 122
+Detector ID 3.0: 125
+Event ID: 1055.0
+Detector ID 3.0: 129
+Detector ID 0.0: 116
+Detector ID 2.0: 124
+Detector ID 1.0: 118
+Event ID: 1056.0
+Detector ID 2.0: 137
+Detector ID 3.0: 129
+Detector ID 1.0: 123
+Detector ID 0.0: 127
+Event ID: 1057.0
+Detector ID 2.0: 123
+Detector ID 0.0: 127
+Detector ID 1.0: 110
+Detector ID 3.0: 124
+Event ID: 1058.0
+Detector ID 0.0: 136
+Detector ID 3.0: 113
+Detector ID 1.0: 135
+Detector ID 2.0: 141
+Event ID: 1059.0
+Detector ID 0.0: 135
+Detector ID 1.0: 126
+Detector ID 2.0: 125
+Detector ID 3.0: 118
+Event ID: 1060.0
+Detector ID 2.0: 156
+Detector ID 1.0: 166
+Detector ID 3.0: 141
+Detector ID 0.0: 135
+Event ID: 1061.0
+Detector ID 0.0: 125
+Detector ID 3.0: 133
+Detector ID 1.0: 127
+Detector ID 2.0: 127
+Event ID: 8.0
+Detector ID 1.0: 267
+Detector ID 0.0: 288
+Detector ID 3.0: 279
+Detector ID 2.0: 267
+Event ID: 1062.0
+Detector ID 1.0: 174
+Detector ID 0.0: 161
+Detector ID 2.0: 180
+Detector ID 3.0: 162
+Event ID: 1063.0
+Detector ID 2.0: 186
+Detector ID 0.0: 183
+Detector ID 1.0: 164
+Detector ID 3.0: 167
+Event ID: 1064.0
+Detector ID 1.0: 164
+Detector ID 2.0: 182
+Detector ID 0.0: 172
+Detector ID 3.0: 184
+Event ID: 1065.0
+Detector ID 3.0: 149
+Detector ID 2.0: 116
+Detector ID 0.0: 140
+Detector ID 1.0: 122
+Event ID: 9.0
+Detector ID 1.0: 173
+Detector ID 0.0: 163
+Detector ID 3.0: 142
+Detector ID 2.0: 160
+Event ID: 1066.0
+Detector ID 1.0: 117
+Detector ID 2.0: 163
+Detector ID 3.0: 167
+Detector ID 0.0: 155
+Event ID: 1067.0
+Detector ID 1.0: 140
+Detector ID 3.0: 162
+Detector ID 2.0: 147
+Detector ID 0.0: 121
+Event ID: 1068.0
+Detector ID 1.0: 136
+Detector ID 3.0: 143
+Detector ID 2.0: 135
+Detector ID 0.0: 154
+Event ID: 1069.0
+Detector ID 1.0: 77
+Detector ID 3.0: 91
+Detector ID 0.0: 77
+Detector ID 2.0: 81
+Event ID: 10.0
+Detector ID 0.0: 139
+Detector ID 2.0: 136
+Detector ID 1.0: 121
+Detector ID 3.0: 127
+Event ID: 1070.0
+Detector ID 3.0: 127
+Detector ID 1.0: 140
+Detector ID 2.0: 120
+Detector ID 0.0: 150
+Event ID: 1071.0
+Detector ID 3.0: 169
+Detector ID 1.0: 168
+Detector ID 2.0: 172
+Detector ID 0.0: 163
+Event ID: 1072.0
+Detector ID 0.0: 157
+Detector ID 2.0: 136
+Detector ID 3.0: 142
+Detector ID 1.0: 129
+Event ID: 1073.0
+Detector ID 3.0: 149
+Detector ID 2.0: 134
+Detector ID 0.0: 123
+Detector ID 1.0: 134
+Event ID: 11.0
+Detector ID 2.0: 99
+Detector ID 1.0: 123
+Detector ID 3.0: 119
+Detector ID 0.0: 120
+Event ID: 1074.0
+Detector ID 1.0: 131
+Detector ID 2.0: 120
+Detector ID 3.0: 124
+Detector ID 0.0: 125
+Event ID: 1075.0
+Detector ID 2.0: 141
+Detector ID 0.0: 152
+Detector ID 3.0: 156
+Detector ID 1.0: 166
+Event ID: 1076.0
+Detector ID 3.0: 140
+Detector ID 0.0: 110
+Detector ID 1.0: 137
+Detector ID 2.0: 135
+Event ID: 1077.0
+Detector ID 1.0: 145
+Detector ID 0.0: 186
+Detector ID 2.0: 154
+Detector ID 3.0: 151
+Event ID: 12.0
+Detector ID 2.0: 133
+Detector ID 1.0: 129
+Detector ID 3.0: 156
+Detector ID 0.0: 144
+Event ID: 41.0
+Detector ID 2.0: 133
+Detector ID 0.0: 106
+Detector ID 1.0: 110
+Detector ID 3.0: 122
+Event ID: 1078.0
+Detector ID 2.0: 140
+Detector ID 1.0: 138
+Detector ID 3.0: 155
+Detector ID 0.0: 143
+Event ID: 1079.0
+Detector ID 3.0: 146
+Detector ID 2.0: 151
+Detector ID 1.0: 165
+Detector ID 0.0: 170
+Event ID: 1080.0
+Detector ID 2.0: 146
+Detector ID 0.0: 166
+Detector ID 1.0: 150
+Detector ID 3.0: 158
+Event ID: 13.0
+Detector ID 0.0: 112
+Detector ID 1.0: 139
+Detector ID 3.0: 152
+Detector ID 2.0: 128
+Event ID: 1082.0
+Detector ID 1.0: 132
+Detector ID 3.0: 135
+Detector ID 0.0: 126
+Detector ID 2.0: 124
+Event ID: 1083.0
+Detector ID 0.0: 141
+Detector ID 2.0: 130
+Detector ID 1.0: 146
+Detector ID 3.0: 123
+Event ID: 1084.0
+Detector ID 1.0: 150
+Detector ID 3.0: 140
+Detector ID 2.0: 154
+Detector ID 0.0: 105
+Event ID: 1085.0
+Detector ID 2.0: 141
+Detector ID 3.0: 154
+Detector ID 1.0: 149
+Detector ID 0.0: 146
+Event ID: 14.0
+Detector ID 3.0: 137
+Detector ID 1.0: 145
+Detector ID 2.0: 125
+Detector ID 0.0: 133
+Event ID: 63.0
+Detector ID 3.0: 127
+Detector ID 2.0: 140
+Detector ID 0.0: 130
+Detector ID 1.0: 150
+Event ID: 64.0
+Detector ID 2.0: 291
+Detector ID 1.0: 307
+Detector ID 0.0: 318
+Detector ID 3.0: 298
+Event ID: 1089.0
+Detector ID 0.0: 126
+Detector ID 1.0: 118
+Detector ID 2.0: 122
+Detector ID 3.0: 120
+Event ID: 15.0
+Detector ID 0.0: 121
+Detector ID 3.0: 120
+Detector ID 2.0: 106
+Detector ID 1.0: 134
+Event ID: 728.0
+Detector ID 3.0: 135
+Detector ID 0.0: 126
+Detector ID 2.0: 147
+Detector ID 1.0: 130
+Event ID: 16.0
+Detector ID 2.0: 140
+Detector ID 3.0: 131
+Detector ID 0.0: 119
+Detector ID 1.0: 131
+Event ID: 17.0
+Detector ID 0.0: 133
+Detector ID 2.0: 152
+Detector ID 1.0: 147
+Detector ID 3.0: 132
+Event ID: 18.0
+Detector ID 3.0: 196
+Detector ID 2.0: 229
+Detector ID 0.0: 198
+Detector ID 1.0: 212
+Event ID: 527.0
+Detector ID 1.0: 185
+Detector ID 2.0: 132
+Detector ID 0.0: 171
+Detector ID 3.0: 168
+Event ID: 19.0
+Detector ID 2.0: 156
+Detector ID 0.0: 131
+Detector ID 3.0: 153
+Detector ID 1.0: 134
+Event ID: 528.0
+Detector ID 2.0: 128
+Detector ID 0.0: 136
+Detector ID 3.0: 117
+Detector ID 1.0: 141
+Event ID: 20.0
+Detector ID 1.0: 144
+Detector ID 3.0: 113
+Detector ID 2.0: 108
+Detector ID 0.0: 123
+Event ID: 529.0
+Detector ID 1.0: 153
+Detector ID 0.0: 154
+Detector ID 2.0: 145
+Detector ID 3.0: 142
+Event ID: 21.0
+Detector ID 1.0: 138
+Detector ID 2.0: 109
+Detector ID 0.0: 134
+Detector ID 3.0: 131
+Event ID: 530.0
+Detector ID 1.0: 145
+Detector ID 0.0: 137
+Detector ID 2.0: 150
+Detector ID 3.0: 140
+Event ID: 22.0
+Detector ID 1.0: 162
+Detector ID 2.0: 162
+Detector ID 3.0: 142
+Detector ID 0.0: 157
+Event ID: 531.0
+Detector ID 3.0: 94
+Detector ID 2.0: 124
+Detector ID 1.0: 117
+Detector ID 0.0: 120
+Event ID: 23.0
+Detector ID 2.0: 127
+Detector ID 1.0: 117
+Detector ID 3.0: 106
+Detector ID 0.0: 110
+Event ID: 532.0
+Detector ID 0.0: 119
+Detector ID 2.0: 114
+Detector ID 1.0: 129
+Detector ID 3.0: 112
+Event ID: 24.0
+Detector ID 0.0: 126
+Detector ID 2.0: 116
+Detector ID 1.0: 105
+Detector ID 3.0: 154
+Event ID: 25.0
+Detector ID 0.0: 129
+Detector ID 2.0: 133
+Detector ID 3.0: 152
+Detector ID 1.0: 117
+Event ID: 534.0
+Detector ID 3.0: 158
+Detector ID 0.0: 171
+Detector ID 2.0: 152
+Detector ID 1.0: 167
+Event ID: 26.0
+Detector ID 2.0: 126
+Detector ID 3.0: 116
+Detector ID 1.0: 115
+Detector ID 0.0: 115
+Event ID: 535.0
+Detector ID 0.0: 139
+Detector ID 3.0: 127
+Detector ID 1.0: 136
+Detector ID 2.0: 142
+Event ID: 27.0
+Detector ID 0.0: 127
+Detector ID 2.0: 123
+Detector ID 1.0: 125
+Detector ID 3.0: 137
+Event ID: 28.0
+Detector ID 0.0: 138
+Detector ID 3.0: 156
+Detector ID 1.0: 156
+Detector ID 2.0: 135
+Event ID: 29.0
+Detector ID 2.0: 145
+Detector ID 3.0: 140
+Detector ID 1.0: 144
+Detector ID 0.0: 139
+Event ID: 30.0
+Detector ID 3.0: 114
+Detector ID 2.0: 128
+Detector ID 0.0: 117
+Detector ID 1.0: 117
+Event ID: 31.0
+Detector ID 0.0: 148
+Detector ID 2.0: 126
+Detector ID 3.0: 142
+Detector ID 1.0: 134
+Event ID: 922.0
+Detector ID 2.0: 140
+Detector ID 0.0: 153
+Detector ID 1.0: 144
+Detector ID 3.0: 139
+Event ID: 1087.0
+Detector ID 1.0: 139
+Detector ID 2.0: 122
+Detector ID 3.0: 135
+Detector ID 0.0: 128
+Event ID: 32.0
+Detector ID 3.0: 213
+Detector ID 2.0: 186
+Detector ID 1.0: 169
+Detector ID 0.0: 199
+Event ID: 33.0
+Detector ID 1.0: 123
+Detector ID 3.0: 118
+Detector ID 0.0: 138
+Detector ID 2.0: 133
+Event ID: 34.0
+Detector ID 0.0: 162
+Detector ID 1.0: 137
+Detector ID 2.0: 138
+Detector ID 3.0: 145
+Event ID: 173.0
+Detector ID 2.0: 186
+Detector ID 1.0: 156
+Detector ID 0.0: 173
+Detector ID 3.0: 181
+Event ID: 174.0
+Detector ID 1.0: 146
+Detector ID 0.0: 157
+Detector ID 3.0: 157
+Detector ID 2.0: 150
+Event ID: 175.0
+Detector ID 1.0: 188
+Detector ID 0.0: 179
+Detector ID 3.0: 166
+Detector ID 2.0: 189
+Event ID: 176.0
+Detector ID 3.0: 130
+Detector ID 1.0: 145
+Detector ID 2.0: 150
+Detector ID 0.0: 137
+Event ID: 177.0
+Detector ID 3.0: 112
+Detector ID 1.0: 122
+Detector ID 0.0: 116
+Detector ID 2.0: 103
+Event ID: 178.0
+Detector ID 0.0: 153
+Detector ID 2.0: 162
+Detector ID 1.0: 147
+Detector ID 3.0: 150
+Event ID: 179.0
+Detector ID 3.0: 151
+Detector ID 2.0: 143
+Detector ID 1.0: 124
+Detector ID 0.0: 142
+Event ID: 692.0
+Detector ID 3.0: 216
+Detector ID 1.0: 205
+Detector ID 2.0: 190
+Detector ID 0.0: 205
+Event ID: 693.0
+Detector ID 1.0: 131
+Detector ID 3.0: 156
+Detector ID 0.0: 156
+Detector ID 2.0: 128
+Event ID: 694.0
+Detector ID 0.0: 137
+Detector ID 3.0: 142
+Detector ID 1.0: 142
+Detector ID 2.0: 174
+Event ID: 695.0
+Detector ID 0.0: 135
+Detector ID 3.0: 131
+Detector ID 2.0: 154
+Detector ID 1.0: 134
+Event ID: 696.0
+Detector ID 1.0: 146
+Detector ID 2.0: 132
+Detector ID 0.0: 133
+Detector ID 3.0: 142
+Event ID: 697.0
+Detector ID 3.0: 179
+Detector ID 2.0: 177
+Detector ID 0.0: 172
+Detector ID 1.0: 192
+Event ID: 698.0
+Detector ID 0.0: 206
+Detector ID 2.0: 203
+Detector ID 3.0: 215
+Detector ID 1.0: 203
+Event ID: 180.0
+Detector ID 2.0: 138
+Detector ID 3.0: 143
+Detector ID 0.0: 145
+Detector ID 1.0: 117
+Event ID: 181.0
+Detector ID 2.0: 268
+Detector ID 1.0: 264
+Detector ID 0.0: 273
+Detector ID 3.0: 230
+Event ID: 182.0
+Detector ID 0.0: 161
+Detector ID 1.0: 145
+Detector ID 3.0: 129
+Detector ID 2.0: 162
+Event ID: 183.0
+Detector ID 0.0: 132
+Detector ID 2.0: 144
+Detector ID 3.0: 155
+Detector ID 1.0: 159
+Event ID: 184.0
+Detector ID 1.0: 138
+Detector ID 2.0: 106
+Detector ID 0.0: 121
+Detector ID 3.0: 114
+Event ID: 185.0
+Detector ID 2.0: 172
+Detector ID 0.0: 170
+Detector ID 1.0: 163
+Detector ID 3.0: 186
+Event ID: 699.0
+Detector ID 0.0: 108
+Detector ID 2.0: 120
+Detector ID 3.0: 143
+Detector ID 1.0: 109
+Event ID: 700.0
+Detector ID 3.0: 165
+Detector ID 2.0: 190
+Detector ID 1.0: 166
+Detector ID 0.0: 188
+Event ID: 701.0
+Detector ID 3.0: 150
+Detector ID 2.0: 151
+Detector ID 0.0: 194
+Detector ID 1.0: 135
+Event ID: 702.0
+Detector ID 1.0: 150
+Detector ID 2.0: 144
+Detector ID 0.0: 124
+Detector ID 3.0: 124
+Event ID: 703.0
+Detector ID 2.0: 155
+Detector ID 3.0: 158
+Detector ID 0.0: 135
+Detector ID 1.0: 133
+Event ID: 704.0
+Detector ID 2.0: 122
+Detector ID 3.0: 123
+Detector ID 0.0: 133
+Detector ID 1.0: 112
+Event ID: 705.0
+Detector ID 1.0: 138
+Detector ID 2.0: 119
+Detector ID 3.0: 137
+Detector ID 0.0: 126
+Event ID: 706.0
+Detector ID 2.0: 127
+Detector ID 3.0: 159
+Detector ID 1.0: 125
+Detector ID 0.0: 151
+Event ID: 707.0
+Detector ID 2.0: 179
+Detector ID 1.0: 179
+Detector ID 0.0: 190
+Detector ID 3.0: 157
+Event ID: 708.0
+Detector ID 0.0: 120
+Detector ID 3.0: 133
+Detector ID 1.0: 153
+Detector ID 2.0: 129
+Event ID: 709.0
+Detector ID 1.0: 181
+Detector ID 2.0: 142
+Detector ID 3.0: 162
+Detector ID 0.0: 154
+Event ID: 710.0
+Detector ID 3.0: 145
+Detector ID 1.0: 114
+Detector ID 2.0: 133
+Detector ID 0.0: 114
+Event ID: 711.0
+Detector ID 1.0: 137
+Detector ID 0.0: 141
+Detector ID 3.0: 145
+Detector ID 2.0: 127
+Event ID: 712.0
+Detector ID 2.0: 176
+Detector ID 0.0: 189
+Detector ID 1.0: 199
+Detector ID 3.0: 158
+Event ID: 713.0
+Detector ID 0.0: 156
+Detector ID 1.0: 145
+Detector ID 3.0: 162
+Detector ID 2.0: 143
+Event ID: 714.0
+Detector ID 2.0: 147
+Detector ID 1.0: 141
+Detector ID 0.0: 135
+Detector ID 3.0: 134
+Event ID: 715.0
+Detector ID 2.0: 183
+Detector ID 1.0: 145
+Detector ID 0.0: 136
+Detector ID 3.0: 143
+Event ID: 716.0
+Detector ID 0.0: 127
+Detector ID 3.0: 136
+Detector ID 1.0: 133
+Detector ID 2.0: 124
+Event ID: 717.0
+Detector ID 3.0: 129
+Detector ID 0.0: 138
+Detector ID 1.0: 120
+Detector ID 2.0: 127
+Event ID: 718.0
+Detector ID 1.0: 160
+Detector ID 3.0: 127
+Detector ID 2.0: 139
+Detector ID 0.0: 147
+Event ID: 719.0
+Detector ID 0.0: 115
+Detector ID 3.0: 133
+Detector ID 2.0: 114
+Detector ID 1.0: 112
+Event ID: 720.0
+Detector ID 0.0: 141
+Detector ID 3.0: 117
+Detector ID 2.0: 125
+Detector ID 1.0: 139
+Event ID: 889.0
+Detector ID 0.0: 134
+Detector ID 3.0: 144
+Detector ID 2.0: 116
+Detector ID 1.0: 156
+Event ID: 721.0
+Detector ID 0.0: 114
+Detector ID 1.0: 129
+Detector ID 2.0: 126
+Detector ID 3.0: 113
+Event ID: 722.0
+Detector ID 1.0: 127
+Detector ID 3.0: 129
+Detector ID 0.0: 132
+Detector ID 2.0: 123
+Event ID: 723.0
+Detector ID 0.0: 163
+Detector ID 2.0: 139
+Detector ID 3.0: 141
+Detector ID 1.0: 135
+Event ID: 724.0
+Detector ID 2.0: 166
+Detector ID 3.0: 155
+Detector ID 0.0: 143
+Detector ID 1.0: 137
+Event ID: 725.0
+Detector ID 0.0: 111
+Detector ID 1.0: 122
+Detector ID 2.0: 121
+Detector ID 3.0: 118
+Event ID: 726.0
+Detector ID 2.0: 161
+Detector ID 3.0: 153
+Detector ID 1.0: 167
+Detector ID 0.0: 140
+Event ID: 43.0
+Detector ID 0.0: 140
+Detector ID 1.0: 134
+Detector ID 2.0: 144
+Detector ID 3.0: 130
+Event ID: 44.0
+Detector ID 1.0: 142
+Detector ID 2.0: 156
+Detector ID 0.0: 179
+Detector ID 3.0: 163
+Event ID: 727.0
+Detector ID 2.0: 124
+Detector ID 0.0: 117
+Detector ID 1.0: 127
+Detector ID 3.0: 131
+Event ID: 884.0
+Detector ID 3.0: 171
+Detector ID 0.0: 170
+Detector ID 1.0: 144
+Detector ID 2.0: 129
+Event ID: 45.0
+Detector ID 0.0: 142
+Detector ID 2.0: 142
+Detector ID 1.0: 132
+Detector ID 3.0: 132
+Event ID: 46.0
+Detector ID 3.0: 113
+Detector ID 1.0: 94
+Detector ID 2.0: 83
+Detector ID 0.0: 75
+Event ID: 47.0
+Detector ID 3.0: 144
+Detector ID 0.0: 121
+Detector ID 1.0: 142
+Detector ID 2.0: 132
+Event ID: 1088.0
+Detector ID 1.0: 139
+Detector ID 3.0: 127
+Detector ID 0.0: 135
+Detector ID 2.0: 127
+Event ID: 48.0
+Detector ID 3.0: 136
+Detector ID 0.0: 114
+Detector ID 2.0: 138
+Detector ID 1.0: 138
+Event ID: 354.0
+Detector ID 2.0: 119
+Detector ID 0.0: 148
+Detector ID 3.0: 126
+Detector ID 1.0: 132
+Event ID: 49.0
+Detector ID 2.0: 216
+Detector ID 3.0: 193
+Detector ID 1.0: 209
+Detector ID 0.0: 193
+Event ID: 885.0
+Detector ID 1.0: 257
+Detector ID 3.0: 251
+Detector ID 2.0: 261
+Detector ID 0.0: 255
+Event ID: 50.0
+Detector ID 2.0: 130
+Detector ID 3.0: 131
+Detector ID 1.0: 131
+Detector ID 0.0: 123
+Event ID: 51.0
+Detector ID 2.0: 138
+Detector ID 1.0: 123
+Detector ID 3.0: 145
+Detector ID 0.0: 142
+Event ID: 52.0
+Detector ID 3.0: 135
+Detector ID 1.0: 138
+Detector ID 0.0: 109
+Detector ID 2.0: 111
+Event ID: 53.0
+Detector ID 2.0: 151
+Detector ID 0.0: 139
+Detector ID 1.0: 144
+Detector ID 3.0: 161
+Event ID: 54.0
+Detector ID 2.0: 143
+Detector ID 0.0: 143
+Detector ID 3.0: 116
+Detector ID 1.0: 140
+Event ID: 886.0
+Detector ID 3.0: 132
+Detector ID 2.0: 119
+Detector ID 0.0: 117
+Detector ID 1.0: 147
+Event ID: 55.0
+Detector ID 2.0: 114
+Detector ID 1.0: 112
+Detector ID 3.0: 115
+Detector ID 0.0: 133
+Event ID: 361.0
+Detector ID 2.0: 220
+Detector ID 1.0: 223
+Detector ID 0.0: 224
+Detector ID 3.0: 192
+Event ID: 56.0
+Detector ID 0.0: 114
+Detector ID 1.0: 126
+Detector ID 2.0: 131
+Detector ID 3.0: 118
+Event ID: 362.0
+Detector ID 1.0: 132
+Detector ID 3.0: 113
+Detector ID 0.0: 115
+Detector ID 2.0: 125
+Event ID: 57.0
+Detector ID 1.0: 127
+Detector ID 2.0: 120
+Detector ID 3.0: 137
+Detector ID 0.0: 118
+Event ID: 363.0
+Detector ID 1.0: 139
+Detector ID 0.0: 144
+Detector ID 2.0: 139
+Detector ID 3.0: 120
+Event ID: 58.0
+Detector ID 1.0: 158
+Detector ID 0.0: 136
+Detector ID 2.0: 144
+Detector ID 3.0: 130
+Event ID: 364.0
+Detector ID 3.0: 129
+Detector ID 0.0: 101
+Detector ID 1.0: 119
+Detector ID 2.0: 120
+Event ID: 59.0
+Detector ID 1.0: 154
+Detector ID 0.0: 142
+Detector ID 3.0: 143
+Detector ID 2.0: 118
+Event ID: 887.0
+Detector ID 3.0: 196
+Detector ID 2.0: 212
+Detector ID 1.0: 192
+Detector ID 0.0: 219
+Event ID: 60.0
+Detector ID 2.0: 140
+Detector ID 3.0: 129
+Detector ID 1.0: 129
+Detector ID 0.0: 119
+Event ID: 61.0
+Detector ID 3.0: 130
+Detector ID 1.0: 146
+Detector ID 0.0: 131
+Detector ID 2.0: 126
+Event ID: 62.0
+Detector ID 0.0: 140
+Detector ID 3.0: 144
+Detector ID 2.0: 163
+Detector ID 1.0: 132
+Event ID: 381.0
+Detector ID 0.0: 164
+Detector ID 3.0: 196
+Detector ID 1.0: 174
+Detector ID 2.0: 169
+Event ID: 1081.0
+Detector ID 1.0: 164
+Detector ID 0.0: 182
+Detector ID 3.0: 156
+Detector ID 2.0: 155
+Event ID: 888.0
+Detector ID 3.0: 123
+Detector ID 2.0: 123
+Detector ID 1.0: 106
+Detector ID 0.0: 111
+Event ID: 879.0
+Detector ID 0.0: 132
+Detector ID 2.0: 138
+Detector ID 1.0: 145
+Detector ID 3.0: 142
+Event ID: 880.0
+Detector ID 0.0: 126
+Detector ID 1.0: 122
+Detector ID 3.0: 145
+Detector ID 2.0: 128
+Event ID: 35.0
+Detector ID 0.0: 130
+Detector ID 2.0: 134
+Detector ID 3.0: 139
+Detector ID 1.0: 148
+Event ID: 881.0
+Detector ID 3.0: 170
+Detector ID 2.0: 181
+Detector ID 1.0: 161
+Detector ID 0.0: 151
+Event ID: 882.0
+Detector ID 0.0: 122
+Detector ID 3.0: 129
+Detector ID 2.0: 110
+Detector ID 1.0: 124
+Event ID: 1086.0
+Detector ID 3.0: 152
+Detector ID 1.0: 140
+Detector ID 2.0: 144
+Detector ID 0.0: 149
+Event ID: 346.0
+Detector ID 2.0: 150
+Detector ID 1.0: 138
+Detector ID 3.0: 128
+Detector ID 0.0: 140
+Event ID: 347.0
+Detector ID 0.0: 115
+Detector ID 1.0: 109
+Detector ID 3.0: 107
+Detector ID 2.0: 129
+Event ID: 348.0
+Detector ID 1.0: 226
+Detector ID 0.0: 197
+Detector ID 2.0: 215
+Detector ID 3.0: 223
+Event ID: 349.0
+Detector ID 1.0: 112
+Detector ID 0.0: 89
+Detector ID 3.0: 128
+Detector ID 2.0: 132
+Event ID: 350.0
+Detector ID 0.0: 138
+Detector ID 3.0: 162
+Detector ID 2.0: 128
+Detector ID 1.0: 119
+Event ID: 351.0
+Detector ID 1.0: 126
+Detector ID 3.0: 108
+Detector ID 2.0: 124
+Detector ID 0.0: 134
+Event ID: 352.0
+Detector ID 0.0: 131
+Detector ID 2.0: 131
+Detector ID 3.0: 155
+Detector ID 1.0: 141
+Event ID: 353.0
+Detector ID 1.0: 160
+Detector ID 2.0: 123
+Detector ID 0.0: 145
+Detector ID 3.0: 135
+Event ID: 865.0
+Detector ID 2.0: 154
+Detector ID 3.0: 139
+Detector ID 1.0: 155
+Detector ID 0.0: 154
+Event ID: 866.0
+Detector ID 0.0: 115
+Detector ID 1.0: 108
+Detector ID 2.0: 105
+Detector ID 3.0: 139
+Event ID: 867.0
+Detector ID 2.0: 138
+Detector ID 1.0: 154
+Detector ID 3.0: 134
+Detector ID 0.0: 133
+Event ID: 868.0
+Detector ID 1.0: 195
+Detector ID 2.0: 209
+Detector ID 3.0: 166
+Detector ID 0.0: 159
+Event ID: 869.0
+Detector ID 2.0: 164
+Detector ID 3.0: 130
+Detector ID 1.0: 142
+Detector ID 0.0: 146
+Event ID: 870.0
+Detector ID 1.0: 106
+Detector ID 3.0: 120
+Detector ID 2.0: 129
+Detector ID 0.0: 127
+Event ID: 871.0
+Detector ID 1.0: 155
+Detector ID 3.0: 119
+Detector ID 2.0: 134
+Detector ID 0.0: 134
+Event ID: 872.0
+Detector ID 0.0: 125
+Detector ID 1.0: 152
+Detector ID 2.0: 148
+Detector ID 3.0: 144
+Event ID: 356.0
+Detector ID 0.0: 148
+Detector ID 3.0: 132
+Detector ID 2.0: 126
+Detector ID 1.0: 125
+Event ID: 357.0
+Detector ID 2.0: 143
+Detector ID 1.0: 129
+Detector ID 0.0: 124
+Detector ID 3.0: 122
+Event ID: 355.0
+Detector ID 3.0: 183
+Detector ID 2.0: 198
+Detector ID 0.0: 218
+Detector ID 1.0: 196
+Event ID: 358.0
+Detector ID 2.0: 156
+Detector ID 1.0: 130
+Detector ID 0.0: 136
+Detector ID 3.0: 156
+Event ID: 359.0
+Detector ID 3.0: 116
+Detector ID 0.0: 126
+Detector ID 2.0: 129
+Detector ID 1.0: 114
+Event ID: 360.0
+Detector ID 0.0: 114
+Detector ID 2.0: 120
+Detector ID 1.0: 122
+Detector ID 3.0: 106
+Event ID: 873.0
+Detector ID 2.0: 160
+Detector ID 1.0: 135
+Detector ID 0.0: 129
+Detector ID 3.0: 147
+Event ID: 874.0
+Detector ID 1.0: 138
+Detector ID 0.0: 138
+Detector ID 2.0: 125
+Detector ID 3.0: 162
+Event ID: 875.0
+Detector ID 1.0: 136
+Detector ID 3.0: 128
+Detector ID 0.0: 125
+Detector ID 2.0: 128
+Event ID: 876.0
+Detector ID 2.0: 222
+Detector ID 1.0: 224
+Detector ID 0.0: 273
+Detector ID 3.0: 238
+Event ID: 877.0
+Detector ID 0.0: 130
+Detector ID 2.0: 146
+Detector ID 3.0: 127
+Detector ID 1.0: 125
+Event ID: 878.0
+Detector ID 3.0: 175
+Detector ID 0.0: 191
+Detector ID 1.0: 175
+Detector ID 2.0: 155
+Event ID: 365.0
+Detector ID 2.0: 140
+Detector ID 0.0: 127
+Detector ID 1.0: 154
+Detector ID 3.0: 152
+Event ID: 366.0
+Detector ID 3.0: 142
+Detector ID 2.0: 180
+Detector ID 0.0: 169
+Detector ID 1.0: 159
+Event ID: 367.0
+Detector ID 0.0: 139
+Detector ID 3.0: 136
+Detector ID 2.0: 152
+Detector ID 1.0: 153
+Event ID: 368.0
+Detector ID 3.0: 126
+Detector ID 0.0: 113
+Detector ID 1.0: 143
+Detector ID 2.0: 129
+Event ID: 369.0
+Detector ID 0.0: 122
+Detector ID 1.0: 127
+Detector ID 3.0: 138
+Detector ID 2.0: 120
+Event ID: 370.0
+Detector ID 0.0: 132
+Detector ID 1.0: 147
+Detector ID 3.0: 113
+Detector ID 2.0: 145
+Event ID: 371.0
+Detector ID 1.0: 124
+Detector ID 3.0: 135
+Detector ID 2.0: 139
+Detector ID 0.0: 111
+Event ID: 372.0
+Detector ID 3.0: 138
+Detector ID 0.0: 105
+Detector ID 1.0: 135
+Detector ID 2.0: 150
+Event ID: 373.0
+Detector ID 2.0: 133
+Detector ID 0.0: 139
+Detector ID 3.0: 117
+Detector ID 1.0: 143
+Event ID: 374.0
+Detector ID 3.0: 116
+Detector ID 2.0: 136
+Detector ID 0.0: 127
+Detector ID 1.0: 137
+Event ID: 375.0
+Detector ID 3.0: 321
+Detector ID 2.0: 303
+Detector ID 0.0: 300
+Detector ID 1.0: 286
+Event ID: 376.0
+Detector ID 1.0: 133
+Detector ID 0.0: 142
+Detector ID 3.0: 103
+Detector ID 2.0: 125
+Event ID: 377.0
+Detector ID 3.0: 144
+Detector ID 1.0: 141
+Detector ID 2.0: 160
+Detector ID 0.0: 157
+Event ID: 378.0
+Detector ID 1.0: 149
+Detector ID 3.0: 139
+Detector ID 2.0: 147
+Detector ID 0.0: 144
+Event ID: 379.0
+Detector ID 1.0: 122
+Detector ID 0.0: 123
+Detector ID 3.0: 131
+Detector ID 2.0: 115
+Event ID: 380.0
+Detector ID 2.0: 138
+Detector ID 1.0: 156
+Detector ID 3.0: 115
+Detector ID 0.0: 133
+Event ID: 890.0
+Detector ID 1.0: 112
+Detector ID 0.0: 129
+Detector ID 3.0: 114
+Detector ID 2.0: 113
+Event ID: 891.0
+Detector ID 0.0: 93
+Detector ID 2.0: 122
+Detector ID 1.0: 97
+Detector ID 3.0: 112
+Event ID: 892.0
+Detector ID 1.0: 124
+Detector ID 2.0: 113
+Detector ID 0.0: 128
+Detector ID 3.0: 135
+Event ID: 896.0
+Detector ID 2.0: 107
+Detector ID 3.0: 129
+Detector ID 0.0: 127
+Detector ID 1.0: 128
+Event ID: 897.0
+Detector ID 2.0: 154
+Detector ID 3.0: 138
+Detector ID 0.0: 137
+Detector ID 1.0: 135
+Event ID: 898.0
+Detector ID 2.0: 206
+Detector ID 1.0: 211
+Detector ID 3.0: 210
+Detector ID 0.0: 195
+Event ID: 899.0
+Detector ID 3.0: 115
+Detector ID 0.0: 133
+Detector ID 2.0: 124
+Detector ID 1.0: 138
+Event ID: 893.0
+Detector ID 3.0: 151
+Detector ID 1.0: 175
+Detector ID 0.0: 189
+Detector ID 2.0: 162
+Event ID: 901.0
+Detector ID 2.0: 127
+Detector ID 1.0: 124
+Detector ID 3.0: 118
+Detector ID 0.0: 125
+Event ID: 36.0
+Detector ID 2.0: 134
+Detector ID 1.0: 148
+Detector ID 0.0: 140
+Detector ID 3.0: 109
+Event ID: 903.0
+Detector ID 0.0: 138
+Detector ID 1.0: 147
+Detector ID 2.0: 140
+Detector ID 3.0: 145
+Event ID: 904.0
+Detector ID 1.0: 101
+Detector ID 0.0: 111
+Detector ID 2.0: 126
+Detector ID 3.0: 135
+Event ID: 894.0
+Detector ID 0.0: 162
+Detector ID 1.0: 135
+Detector ID 2.0: 150
+Detector ID 3.0: 131
+Event ID: 906.0
+Detector ID 0.0: 135
+Detector ID 2.0: 145
+Detector ID 1.0: 146
+Detector ID 3.0: 164
+Event ID: 907.0
+Detector ID 0.0: 132
+Detector ID 1.0: 150
+Detector ID 3.0: 124
+Detector ID 2.0: 138
+Event ID: 908.0
+Detector ID 0.0: 126
+Detector ID 3.0: 142
+Detector ID 2.0: 143
+Detector ID 1.0: 129
+Event ID: 909.0
+Detector ID 0.0: 140
+Detector ID 2.0: 138
+Detector ID 1.0: 153
+Detector ID 3.0: 132
+Event ID: 895.0
+Detector ID 0.0: 144
+Detector ID 2.0: 122
+Detector ID 1.0: 142
+Detector ID 3.0: 129
+Event ID: 911.0
+Detector ID 3.0: 141
+Detector ID 2.0: 125
+Detector ID 1.0: 115
+Detector ID 0.0: 104
+Event ID: 912.0
+Detector ID 1.0: 135
+Detector ID 2.0: 120
+Detector ID 3.0: 128
+Detector ID 0.0: 146
+Event ID: 913.0
+Detector ID 1.0: 132
+Detector ID 0.0: 137
+Detector ID 3.0: 115
+Detector ID 2.0: 135
+Event ID: 914.0
+Detector ID 3.0: 96
+Detector ID 2.0: 116
+Detector ID 0.0: 100
+Detector ID 1.0: 109
+Event ID: 915.0
+Detector ID 2.0: 133
+Detector ID 1.0: 121
+Detector ID 0.0: 122
+Detector ID 3.0: 113
+Event ID: 916.0
+Detector ID 3.0: 155
+Detector ID 1.0: 126
+Detector ID 0.0: 114
+Detector ID 2.0: 129
+Event ID: 917.0
+Detector ID 1.0: 355
+Detector ID 0.0: 343
+Detector ID 3.0: 337
+Detector ID 2.0: 339
+Event ID: 918.0
+Detector ID 1.0: 131
+Detector ID 0.0: 139
+Detector ID 3.0: 135
+Detector ID 2.0: 132
+Event ID: 919.0
+Detector ID 2.0: 152
+Detector ID 0.0: 123
+Detector ID 1.0: 119
+Detector ID 3.0: 120
+Event ID: 920.0
+Detector ID 3.0: 125
+Detector ID 1.0: 125
+Detector ID 0.0: 112
+Detector ID 2.0: 137
+Event ID: 921.0
+Detector ID 2.0: 154
+Detector ID 1.0: 139
+Detector ID 3.0: 126
+Detector ID 0.0: 128
+Event ID: 42.0
+Detector ID 3.0: 130
+Detector ID 0.0: 148
+Detector ID 2.0: 153
+Detector ID 1.0: 142
+Event ID: 923.0
+Detector ID 2.0: 145
+Detector ID 0.0: 160
+Detector ID 1.0: 149
+Detector ID 3.0: 133
+Event ID: 924.0
+Detector ID 1.0: 138
+Detector ID 3.0: 147
+Detector ID 2.0: 144
+Detector ID 0.0: 134
+Event ID: 383.0
+Detector ID 2.0: 113
+Detector ID 1.0: 113
+Detector ID 3.0: 118
+Detector ID 0.0: 127
+Event ID: 37.0
+Detector ID 2.0: 237
+Detector ID 0.0: 211
+Detector ID 3.0: 225
+Detector ID 1.0: 220
+Event ID: 900.0
+Detector ID 3.0: 104
+Detector ID 2.0: 106
+Detector ID 1.0: 109
+Detector ID 0.0: 102
+Event ID: 382.0
+Detector ID 0.0: 187
+Detector ID 2.0: 164
+Detector ID 1.0: 181
+Detector ID 3.0: 135
+Event ID: 902.0
+Detector ID 3.0: 191
+Detector ID 1.0: 179
+Detector ID 2.0: 177
+Detector ID 0.0: 159
+Event ID: 38.0
+Detector ID 1.0: 140
+Detector ID 2.0: 116
+Detector ID 0.0: 149
+Detector ID 3.0: 134
+Event ID: 384.0
+Detector ID 0.0: 155
+Detector ID 3.0: 176
+Detector ID 2.0: 156
+Detector ID 1.0: 146
+Event ID: 905.0
+Detector ID 3.0: 144
+Detector ID 2.0: 121
+Detector ID 1.0: 122
+Detector ID 0.0: 113
+Event ID: 1211.0
+Detector ID 3.0: 142
+Detector ID 0.0: 128
+Detector ID 1.0: 95
+Detector ID 2.0: 132
+Event ID: 1212.0
+Detector ID 1.0: 138
+Detector ID 0.0: 126
+Detector ID 2.0: 141
+Detector ID 3.0: 120
+Event ID: 39.0
+Detector ID 0.0: 123
+Detector ID 3.0: 117
+Detector ID 1.0: 127
+Detector ID 2.0: 122
+Event ID: 910.0
+Detector ID 1.0: 160
+Detector ID 0.0: 153
+Detector ID 2.0: 162
+Detector ID 3.0: 155
+Event ID: 883.0
+Detector ID 2.0: 132
+Detector ID 0.0: 127
+Detector ID 3.0: 128
+Detector ID 1.0: 146
+Event ID: 40.0
+Detector ID 3.0: 182
+Detector ID 1.0: 174
+Detector ID 2.0: 135
+Detector ID 0.0: 171
