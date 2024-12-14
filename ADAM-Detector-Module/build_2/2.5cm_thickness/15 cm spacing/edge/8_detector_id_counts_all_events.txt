@@ -1,0 +1,50 @@
+Event ID: 0.0
+Detector ID 3.0: 192
+Detector ID 1.0: 137
+Detector ID 2.0: 182
+Detector ID 0.0: 152
+Event ID: 1.0
+Detector ID 3.0: 165
+Detector ID 2.0: 144
+Detector ID 1.0: 126
+Detector ID 0.0: 126
+Event ID: 2.0
+Detector ID 3.0: 158
+Detector ID 1.0: 111
+Detector ID 0.0: 113
+Detector ID 2.0: 156
+Event ID: 3.0
+Detector ID 2.0: 166
+Detector ID 1.0: 121
+Detector ID 0.0: 141
+Detector ID 3.0: 183
+Event ID: 4.0
+Detector ID 2.0: 222
+Detector ID 3.0: 231
+Detector ID 1.0: 162
+Detector ID 0.0: 152
+Event ID: 5.0
+Detector ID 2.0: 127
+Detector ID 3.0: 156
+Detector ID 0.0: 111
+Detector ID 1.0: 124
+Event ID: 6.0
+Detector ID 3.0: 205
+Detector ID 0.0: 178
+Detector ID 1.0: 147
+Detector ID 2.0: 185
+Event ID: 7.0
+Detector ID 1.0: 166
+Detector ID 2.0: 225
+Detector ID 0.0: 187
+Detector ID 3.0: 223
+Event ID: 8.0
+Detector ID 2.0: 148
+Detector ID 0.0: 118
+Detector ID 3.0: 134
+Detector ID 1.0: 108
+Event ID: 9.0
+Detector ID 1.0: 145
+Detector ID 2.0: 201
+Detector ID 3.0: 190
+Detector ID 0.0: 144
